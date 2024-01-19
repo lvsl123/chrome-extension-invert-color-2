@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Invert color 2",
+  "version": "1.0",
+  "description": "invert page color, some code come from chrome",
+
+  "icons": {
+    "16": "images/icon.png",
+    "32": "images/icon.png",
+    "48": "images/icon.png",
+    "128": "images/icon.png"
+  },
+
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "background": {
+    "service_worker": "service-worker.js"
+  },
+  "action": {
+    "default_title": "Action Button"
+  }
+
+}

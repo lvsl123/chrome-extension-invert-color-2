@@ -1,0 +1,1 @@
+Simple and lazy invert color script that can be used anywhere. Codes other than scripts/content.js are (partly) from chrome tutorial with some modification. Instead of needing to click on the icon to use the script it's changed to after every single page is loaded
